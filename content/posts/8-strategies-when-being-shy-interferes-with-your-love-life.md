@@ -1,7 +1,7 @@
 +++
 title = '8 Strategies When Being Shy Interferes With Your Love Life'
 date = 2023-11-26T22:05:43+02:00
-draft = true
+draft = false
 +++
 
 **Be interested in other people.** Ask them how they are, and really listen to their answers... He asks questions because he is interested. And people chat with him because he wants to hear what they have to say.
